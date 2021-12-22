@@ -2,7 +2,7 @@
 
 This repo contains the source and binaries for a customer UK keyboard layout or Microsoft windows (8,10,11)
 
-The layout is mostly similar to the UK Extended layout other than the fact that the '`' key acts as both a non dead key and a dead key.
+The layout is mostly similar to the UK Extended layout other than the fact that the ``` ` ``` key acts as both a non dead key and a dead key.
 
 #### Huh
 
