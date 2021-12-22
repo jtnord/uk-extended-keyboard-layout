@@ -17,8 +17,7 @@ This layout makes the backtick key act as both a regular key **and** as a dead k
 
 * Download the zip file from [Releases](https://github.com/jtnord/uk-extended-keyboard-layout/releases/)
 * Unpack the zip and run as an administrator `setup.exe`
-* Restart Windows
-* in the keyboard layout choose UK_DEAD.
+* they keyboard should be auto registered (at least on windows 11, older versions you may have to restart and select the `United Kingdom Extended - dead keys` layout)
 
 ### Building 
 
